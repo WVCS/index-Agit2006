@@ -1,11 +1,11 @@
 ol {
-  background: #e4e6c3;
+  background: #9DACB2;
   padding: 20px;
 }
 
 ul {
    list-style: square inside url("https://media0.giphy.com/media/wEZu9ECc59Rj9rca5v/giphy.gif");
-  background:#899878;
+  background:#9DACB2;
   padding: 20px;
 }
 
@@ -25,20 +25,22 @@ table{
 
 }
 body {
-  background-color:#899878;
+  background-color:#9DACB2;
 }
 tr:hover{
-  background-color:#e4e6c3
+  background-color:white;
 }
 
 
 nav {
   list-style-type: none;
   position: fixed;
-  background-color: #e4e6c3;
+  background-color: #9DACB2;
   width: 100%;
   left: 0;
   top: 0;
+  font-family:fantasy;
+  
 }
 
 .navClass {
@@ -49,11 +51,18 @@ nav {
 
 a {
   text-decoration: none;
-  color: #899878;
+  color: Black;
   font-size: 120%;
 }
 
 .navClass:hover {
   background-color: White;
 }
+
+body{
+  font-family:
+  
+}
+
+
 
