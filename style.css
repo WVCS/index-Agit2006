@@ -1,5 +1,10 @@
 ol {
-  background: #9DACB2;
+  background: #fffcf2;
+  padding: 20px;
+}
+
+ul {
+  background: #fffcf2;
   padding: 20px;
 }
 
@@ -9,7 +14,8 @@ table, tr, th {
 
 td, th {
   text-align: center;
-  padding: 5px;
+  padding: 20px;
+  background-color:
 }
 table{
   border-collaspe: collaspe;
@@ -19,7 +25,8 @@ table{
 
 }
 body {
-  background-color:#9DACB2;
+  background-color:#ccc5b9;
+  color:#8a817c
 }
 tr:hover{
   background-color:white;
@@ -29,11 +36,12 @@ tr:hover{
 nav {
   list-style-type: none;
   position: fixed;
-  background-color: #9DACB2;
+  background-color: #fffcf2;
   width: 100%;
   left: 0;
   top: 0;
   font-family:fantasy;
+  
   
 }
 
@@ -44,17 +52,18 @@ nav {
 }
 
 a {
-  text-decoration: none;
-  color: Black;
+  text-decoration: underline;
+  color: #8a817c;
   font-size: 120%;
 }
 
 .navClass:hover {
-  background-color: White;
+  background-color: fffcf2;
 }
 
 body{
-  font-family:
+  font-family:fantasy;
+  font-color:#8a817c;
   
 }
 
@@ -76,9 +85,11 @@ body{
         order: 2;
       }
       .text {
-        color: #CD5C5C;
+        color: #8a817c;
         padding-left: 20px;
-        font: italic 10px "Fira Sans", serif;
+        font: italic 10px "Fira Sans", fantasy;
+        
+        
         
         
         
